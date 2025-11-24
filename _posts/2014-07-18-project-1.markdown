@@ -1,0 +1,11 @@
+---
+title: Taman Teguh Residence
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: Porto1.jpg
+thumbnail: Porto1.jpg
+alt: image-alt
+description: 120-unit cluster housing — 2 & 3 bedroom options, landscaped public spaces, gated security. 
+
+---
